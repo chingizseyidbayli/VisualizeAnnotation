@@ -34,3 +34,7 @@ Run the script
 ```bash
   python annotate_images.py --annotation_files_path ANNOTATION_FILES_PATH --image_files_path IMAGE_FILES_PATH --output_path OUTPUT_PATH
 ```
+
+## Example
+![Screenshot from 2023-10-21 17-54-23](https://github.com/chingizseyidbayli/VisualizeAnnotation/assets/15063807/06fef630-131b-4e33-8fb0-22623c7c7b19)
+
